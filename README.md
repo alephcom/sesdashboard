@@ -16,3 +16,5 @@ Documentation available at https://sesdashboard.readthedocs.io/
 ![SesDashboard Dashboard Screen](docs/images/sesdashboard-dashboard.png)
 ![SesDashboard Activity Screen](docs/images/sesdashboard-activity.png)
 ![SesDashboard Email Details](docs/images/sesdashboard-email-details.png)
+
+Hi, I reviewed the project and I can convert it to Laravel. Please message me on WhatsApp for further discussion: +923041947448.

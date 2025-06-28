@@ -1,3 +1,5 @@
+
+
 # About Fork
 This is a fork of the excellent [SesDashboard by Nikeev](https://github.com/Nikeev/sesdashboard).  Development over there appears to have stopped and there are a few features we wanted to implement.
 
@@ -16,3 +18,7 @@ Documentation available at https://sesdashboard.readthedocs.io/
 ![SesDashboard Dashboard Screen](docs/images/sesdashboard-dashboard.png)
 ![SesDashboard Activity Screen](docs/images/sesdashboard-activity.png)
 ![SesDashboard Email Details](docs/images/sesdashboard-email-details.png)
+
+
+Available for your task mate .  
+Ping me on wa : +923041947448

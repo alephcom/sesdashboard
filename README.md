@@ -1,3 +1,6 @@
+# About Fork
+This is a fork of the excellent [SesDashboard by Nikeev](https://github.com/Nikeev/sesdashboard).  Development over there appears to have stopped and there are a few features we wanted to implement.
+
 # About
 SesDashboard is an Analytics UI for Amazon Simple Email Service.
 
